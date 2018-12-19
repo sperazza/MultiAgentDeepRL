@@ -14,7 +14,7 @@
 - It has a mean score on a trained network of **36.7** (validated on 100 episodes, solved is > 30).
 
 
-This is a trained agent animated gif:
+This projects solution of trained agents, animated gif:
 
 ![trained_agent][trained_image]
 
