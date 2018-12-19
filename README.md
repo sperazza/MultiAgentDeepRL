@@ -4,7 +4,7 @@
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
 [trained_image]: assets/reacher_trained_fast_rnd.gif
 
-## Deep Reinforcement Learnig - Continuous Control
+## Deep Reinforcement Learning - Continuous Control
 
 ### Introduction
 
