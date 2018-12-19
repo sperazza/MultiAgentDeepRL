@@ -77,7 +77,7 @@ Critic(
 #### Key Algorithm modifications
 ###
 ###### Predictive state velocities
-The idea behind the reacher, is there is a series of target balls moving.  The target balls have a location and a velociy vector.  The algorithm  was modified to accept 2 states(previous state, and current state), instead of just the current state.  This dual state information was used to capture the predictive velocity of the state components, and this was concatenated with the current state, as shown below:
+The idea behind the reacher, is there is a series of target balls moving.  The target balls have a location and a velocity vector.  The algorithm  was modified to accept 2 states(previous state, and current state), instead of just the current state.  This dual state information was used to capture the predictive velocity of the state components, and this was concatenated with the current state, as shown below:
 
 ```
         pred_state = state + (state - prev_state)
