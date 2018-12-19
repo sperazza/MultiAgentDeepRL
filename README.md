@@ -14,10 +14,6 @@
 - It has a mean score on a trained network of **36.7** (validated on 100 episodes, solved is > 30).
 
 
-[Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) .
-
-![Trained Agent][image1]
-
 This is a trained agent animated gif:
 
 ![trained_agent][trained_image]
