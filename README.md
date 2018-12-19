@@ -8,7 +8,7 @@
 
 ### Introduction
 
-- This project solves Unity's Reacher, a multi agent environment.  This is part of a Udacity Deep Reinforcment Learning NanoDegree program.
+- This project solves Unity's Reacher, a multi agent environment.  This is part of a Udacity Deep Reinforcement Learning NanoDegree program.
 - The DDPG Reinforcement Learning algorithm is used.
 - This implementation trains fast, reaching a solution in only  **42 episodes**.
 - It has a mean score on a trained network of **36.7** (validated on 100 episodes, solved is > 30).
