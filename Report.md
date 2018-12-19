@@ -41,6 +41,7 @@ The project is implemented in utilizing a python notebook, Continuous_Control.ip
 This project uses the DDPG Reinforcement Learning algorithm.
 
 ![DDPG]
+*Taken from : https://arxiv.org/pdf/1509.02971.pdf*
 
 Internally, It consists of 4 neural networks. 1 Actor, 1 Critic, and a copy of each.  As well as a shared replay buffer.
 
